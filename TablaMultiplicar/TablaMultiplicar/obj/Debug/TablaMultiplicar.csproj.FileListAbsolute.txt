@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\smarinwm\back-csharp\TablaMultiplicar\TablaMultiplicar\bin\Debug\TablaMultiplicar.exe.config
+C:\Users\User\source\repos\smarinwm\back-csharp\TablaMultiplicar\TablaMultiplicar\bin\Debug\TablaMultiplicar.exe
+C:\Users\User\source\repos\smarinwm\back-csharp\TablaMultiplicar\TablaMultiplicar\bin\Debug\TablaMultiplicar.pdb
+C:\Users\User\source\repos\smarinwm\back-csharp\TablaMultiplicar\TablaMultiplicar\obj\Debug\TablaMultiplicar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\TablaMultiplicar\TablaMultiplicar\obj\Debug\TablaMultiplicar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\TablaMultiplicar\TablaMultiplicar\obj\Debug\TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\TablaMultiplicar\TablaMultiplicar\obj\Debug\TablaMultiplicar.exe
+C:\Users\User\source\repos\smarinwm\back-csharp\TablaMultiplicar\TablaMultiplicar\obj\Debug\TablaMultiplicar.pdb
