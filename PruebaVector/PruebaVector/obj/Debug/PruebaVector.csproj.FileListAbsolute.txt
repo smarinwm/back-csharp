@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\smarinwm\back-csharp\PruebaVector\PruebaVector\bin\Debug\PruebaVector.exe.config
+C:\Users\User\source\repos\smarinwm\back-csharp\PruebaVector\PruebaVector\bin\Debug\PruebaVector.exe
+C:\Users\User\source\repos\smarinwm\back-csharp\PruebaVector\PruebaVector\bin\Debug\PruebaVector.pdb
+C:\Users\User\source\repos\smarinwm\back-csharp\PruebaVector\PruebaVector\obj\Debug\PruebaVector.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\PruebaVector\PruebaVector\obj\Debug\PruebaVector.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\PruebaVector\PruebaVector\obj\Debug\PruebaVector.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\PruebaVector\PruebaVector\obj\Debug\PruebaVector.exe
+C:\Users\User\source\repos\smarinwm\back-csharp\PruebaVector\PruebaVector\obj\Debug\PruebaVector.pdb
