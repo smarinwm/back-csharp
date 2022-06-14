@@ -39,7 +39,7 @@ namespace PruebaClasePersona
                 }
                 else
                 {
-                    Console.Write("No es mayor de edad");
+                    Console.Write("Es menor de edad");
                 }
                 Console.ReadKey();
             }

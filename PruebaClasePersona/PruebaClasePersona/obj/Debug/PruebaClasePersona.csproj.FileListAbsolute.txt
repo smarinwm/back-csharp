@@ -1,0 +1,8 @@
+D:\almacenillo\back-csharp-todo\back-csharp\PruebaClasePersona\PruebaClasePersona\bin\Debug\PruebaClasePersona.exe.config
+D:\almacenillo\back-csharp-todo\back-csharp\PruebaClasePersona\PruebaClasePersona\bin\Debug\PruebaClasePersona.exe
+D:\almacenillo\back-csharp-todo\back-csharp\PruebaClasePersona\PruebaClasePersona\bin\Debug\PruebaClasePersona.pdb
+D:\almacenillo\back-csharp-todo\back-csharp\PruebaClasePersona\PruebaClasePersona\obj\Debug\PruebaClasePersona.csproj.AssemblyReference.cache
+D:\almacenillo\back-csharp-todo\back-csharp\PruebaClasePersona\PruebaClasePersona\obj\Debug\PruebaClasePersona.csproj.SuggestedBindingRedirects.cache
+D:\almacenillo\back-csharp-todo\back-csharp\PruebaClasePersona\PruebaClasePersona\obj\Debug\PruebaClasePersona.csproj.CoreCompileInputs.cache
+D:\almacenillo\back-csharp-todo\back-csharp\PruebaClasePersona\PruebaClasePersona\obj\Debug\PruebaClasePersona.exe
+D:\almacenillo\back-csharp-todo\back-csharp\PruebaClasePersona\PruebaClasePersona\obj\Debug\PruebaClasePersona.pdb
