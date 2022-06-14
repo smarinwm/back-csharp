@@ -10,6 +10,10 @@ namespace PruebaClasePersona
     {
         static void Main(string[] args)
         {
+            Persona persona = new Persona();
+            persona.instanciar();
+            persona.imprimir();
+            persona.isMayorEdad();
         }
     }
 }
