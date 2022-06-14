@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\bin\Debug\Negocio.dll
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\User\source\repos\smarinwm\back-csharp\Presentacion\Presentacion\obj\Debug\Presentacion.pdb
