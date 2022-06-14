@@ -1,0 +1,8 @@
+D:\almacenillo\back-csharp-todo\back-csharp\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe.config
+D:\almacenillo\back-csharp-todo\back-csharp\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe
+D:\almacenillo\back-csharp-todo\back-csharp\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.pdb
+D:\almacenillo\back-csharp-todo\back-csharp\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.AssemblyReference.cache
+D:\almacenillo\back-csharp-todo\back-csharp\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.SuggestedBindingRedirects.cache
+D:\almacenillo\back-csharp-todo\back-csharp\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.CoreCompileInputs.cache
+D:\almacenillo\back-csharp-todo\back-csharp\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.exe
+D:\almacenillo\back-csharp-todo\back-csharp\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.pdb
